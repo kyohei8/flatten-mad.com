@@ -1,0 +1,9 @@
+baseurl = ""
+languageCode = "en-us"
+title = "flatten-mad.com"
+author = "Kyohei Tsukuda"
+
+[params]
+  author_name = "Kyohei Tsukuda"
+  twitter_username = "kyoheiz"
+  gravatar_id = "bcb9b4285311a0b9c35ffe11917a5db8"
